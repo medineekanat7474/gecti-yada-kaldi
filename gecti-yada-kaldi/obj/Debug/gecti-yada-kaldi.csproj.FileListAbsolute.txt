@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\gecti-yada-kaldi\gecti-yada-kaldi\bin\Debug\gecti-yada-kaldi.exe.config
+C:\Users\User\source\repos\gecti-yada-kaldi\gecti-yada-kaldi\bin\Debug\gecti-yada-kaldi.exe
+C:\Users\User\source\repos\gecti-yada-kaldi\gecti-yada-kaldi\bin\Debug\gecti-yada-kaldi.pdb
+C:\Users\User\source\repos\gecti-yada-kaldi\gecti-yada-kaldi\obj\Debug\gecti-yada-kaldi.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\gecti-yada-kaldi\gecti-yada-kaldi\obj\Debug\gecti-yada-kaldi.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\gecti-yada-kaldi\gecti-yada-kaldi\obj\Debug\gecti_yada_kaldi.Form1.resources
+C:\Users\User\source\repos\gecti-yada-kaldi\gecti-yada-kaldi\obj\Debug\gecti_yada_kaldi.Properties.Resources.resources
+C:\Users\User\source\repos\gecti-yada-kaldi\gecti-yada-kaldi\obj\Debug\gecti-yada-kaldi.csproj.GenerateResource.cache
+C:\Users\User\source\repos\gecti-yada-kaldi\gecti-yada-kaldi\obj\Debug\gecti-yada-kaldi.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\gecti-yada-kaldi\gecti-yada-kaldi\obj\Debug\gecti-yada-kaldi.exe
+C:\Users\User\source\repos\gecti-yada-kaldi\gecti-yada-kaldi\obj\Debug\gecti-yada-kaldi.pdb
